@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a Computer Scientist, Scaling Architect, and Bitcoin Script Engineer with over **45 years** in programming and more than **35 years** building global-scale infrastructure. My journey spans bleeding-edge technologies and foundational systems, including bespoke database collations, on-chip systems, and chip architectures for many of the worldâ€™s largest companies, governments, and institutions.
+I'm a Computer Scientist, Scaling Architect, and Bitcoin Script Engineer with over **45 years** in programming and more than **35 years** building global-scale infrastructure. My journey spans bleeding-edge technologies and foundational systems, including bespoke database collations, on-chip systems, and chip architectures for many of the world's largest companies, governments, and institutions.
 
 **Languages & Tech:**  
 C++, Rust, MATLAB, Java, R, Forth, Python, JavaScript, COBOL, GoLang
