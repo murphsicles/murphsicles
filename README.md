@@ -68,7 +68,3 @@ HOKG is a Rust library implementing the Hensel-Optimized Key Generation algorith
 
 - [GitHub](https://github.com/murphsicles)
 - [@murphsicles on X](https://x.com/murphsicles)
-
----
-
-> _â€œEngineering solutions for the worldâ€™s toughest problems, from chip to cloud.â€_
