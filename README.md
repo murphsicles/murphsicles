@@ -53,6 +53,10 @@ A Rust library implementing the framework from ["Resolving CAP Through Automata-
 
 A Rust library for building Bitcoin SV applications and infrastructure, providing robust tools for P2P networking, address handling, transaction processing, and more.
 
+### [paymail-rs](https://github.com/murphsicles/paymail-rs)
+
+A fast, asynchronous Rust library for the BSV PayMail protocol, enabling seamless integration with Bitcoin SV services.
+
 ### [HOKG](https://github.com/murphsicles/HOKG)
 **Hensel-Optimized Key Generation.**  
 
