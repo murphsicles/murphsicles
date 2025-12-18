@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Roy! 🚀
+# 👋 Hi, I'm Roy!
 
 ![GitHub followers](https://img.shields.io/github/followers/murphsicles?style=social)
 ![Years of Experience](https://img.shields.io/badge/Experience-45%2B%20years-blue)
-![Languages](https://img.shields.io/badge/C%2B%2B%2C%20Rust%2C%20MATLAB%2C%20Java%2C%20R%2C%20Forth%2C%20Python%2C%20JavaScript%2C%20COBOL%2C%20GoLang-informational)
 ![Bitcoin Script Engineer](https://img.shields.io/badge/Bitcoin-Script%20Engineer-yellow)
 ![Infrastructure Architect](https://img.shields.io/badge/Infrastructure-Architect-green)
 ![Data Engineer](https://img.shields.io/badge/Data-Engineer-orange)
@@ -12,7 +11,7 @@
 I'm a **Computer Scientist**, **Scaling Architect**, and **Bitcoin Script Engineer** with over **45 years** in programming and more than **35 years** building global-scale infrastructure. My journey spans bleeding-edge technologies and foundational systems, including bespoke database collations, on-chip systems, and chip architectures for many of the world's largest companies, governments, and institutions. 💻🔧
 
 **Languages & Tech:**  
-🛠️ C++, Rust, MATLAB, Java, R, Forth, Python, JavaScript, COBOL, GoLang
+🛠️ C++, Rust, Zeta, Java, .NET, R, Forth, Zig, Python, Lisp, OCaml, JavaScript, COBOL, Julia, MATLAB, GoLang.
 
 **Areas of Expertise:**  
 - 🌍 Global Scaling Infrastructure  
@@ -27,6 +26,29 @@ I'm a **Computer Scientist**, **Scaling Architect**, and **Bitcoin Script Engine
 ## 📂 My GitHub Projects
 
 Below are some featured public repositories I've contributed to or created. Dive in and explore! [View all my projects on GitHub](https://github.com/murphsicles?tab=repositories) (results below may be incomplete).  
+
+### ⚙️ [Zeta](https://github.com/murphsicles/zeta)  
+**Zeta: The Final Systems Language.**  
+
+Zeta is a systems programming language inspired by Elements of Programming (EOP) algebraic foundations, by Alexander Stepanov, the Godfather of the C++ Standard Template Library. Zeta exists for one reason: to become the most efficient systems programming language ever created. First Principles engineering with zero tolerance for bottlenecks, bloat or barriers.
+
+> “It’s not just efficiency, it's weaponized minimalism. It’s surgical violence against complexity.” - Roy Murphy
+
+- **Insane efficiency**
+- **Unbeatable execution speed & performance**
+- **Built for next-gen AI infrastructure**
+- **Runs faster than Rust & Zig**
+- **Compiles faster than Go**
+- **Practicality of Python**
+- **Produces smaller binaries than C**
+- **Parse strings like Perl**
+- **Baked-in SIMD optimization**
+
+Zeta v0.0.7 is released. There are zero competitors.
+We're living in a brand new paradigm.
+
+> “Complexity assersions have to be part of the interface.” - Alexander Stepanov, 1995
+
 
 ### 🚀 [Galaxy](https://github.com/murphsicles/Galaxy)  
 **The Ultra High-Performance BSV Node.**  
