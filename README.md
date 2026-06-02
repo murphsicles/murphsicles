@@ -44,7 +44,7 @@ Zeta is a systems programming language inspired by Elements of Programming (EOP)
 - **Parse strings like Perl**
 - **Baked-in SIMD optimization**
 
-Zeta v0.3.0 is released. There are zero competitors.
+Zeta v1.0.18 is released. There are zero competitors.
 We're living in a brand new paradigm.
 
 > “Complexity assersions have to be part of the interface.” - Alexander Stepanov, 1995
